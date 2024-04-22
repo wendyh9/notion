@@ -16,10 +16,10 @@ function navigate(id) {
           window.open("instagram.com", '_blank').focus(); //Add the url to your instagram account
         }
         else if (id === "linkedin") {
-          window.open("https://www.linkedin.com/", '_blank').focus(); //Add the url to your pinterest account
+          window.open("https://www.linkedin.com/in/agaidinstitute/", '_blank').focus(); //Add the url to your pinterest account
         }
         else if (id === "twitter") {
-          window.open("https://twitter.com/", '_blank').focus(); //Add the url to your pinterest account
+          window.open("https://twitter.com/AgAID_Institute", '_blank').focus(); //Add the url to your pinterest account
         }
         else if (id === "reddit") {
           window.open("https://www.reddit.com/", '_blank').focus(); //Add the url to your reddit account
