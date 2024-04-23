@@ -8,9 +8,11 @@ function navigate(id) {
         else if (id === "email") {
           window.open("mailto:someone@yoursite.com", '_blank').focus(); //Add your email after "mailto:""
         }
-
         else if (id === "facebook") {
           window.open("https://facebook.com/", '_blank').focus(); //Add the url to your facebook page or account
+        }
+        else if (id === "website") {
+          window.open("https://agaid.org/", '_blank').focus(); //Add the url to your website
         }
         else if (id === "instagram") {
           window.open("instagram.com", '_blank').focus(); //Add the url to your instagram account
