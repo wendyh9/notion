@@ -28,7 +28,7 @@ function navigate(id) {
           window.open("https://www.tiktok.com/", '_blank').focus(); //Add the url to your tiktok account
         }
         else if (id === "youtube") {
-          window.open("https://www.youtube.com/", '_blank').focus(); //Add the url to your youtube account
+          window.open("https://www.youtube.com/channel/UCaYunRC4b6wBXFisYnx1gNQ", '_blank').focus(); //Add the url to your youtube account
         }
         else if (id === "pinterest") {
           window.open("https://www.pinterest.com/", '_blank').focus(); //Add the url to your pinterest account
