@@ -23,6 +23,13 @@
       color: #7a7a7a
     }
 
+    #agaid_icon {
+      filter: grayscale(100%); 
+    }
+
+    #agaid_icon:hover {
+      filter: grayscale(0%);
+    }
 
     .blog:hover {
       color: #ffbd2f;
